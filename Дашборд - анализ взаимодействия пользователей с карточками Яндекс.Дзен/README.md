@@ -8,7 +8,7 @@
 **Источники данных для дашборда:**
 - cырые данные о событиях взаимодействия пользователей с карточками.
 
-Макет дашборда: ![alt tag](https://drive.google.com/file/d/11yfR0LNnJb2y4Eff3yjxWYh4eIddjuIQ/view?usp=sharing)
+Макет дашборда: ![alt text](https://disk.yandex.ru/i/4WUePqa8OsZ-Jg)
 
 Ссылка на дашборд: https://public.tableau.com/app/profile/elena1728/viz/dash_16267170961900/Dashboard1
 
